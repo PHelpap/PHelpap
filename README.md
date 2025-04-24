@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there :grinning_face:
 
-<!--
-**PHelpap/PHelpap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github!
 
-Here are some ideas to get you started:
+About me 📎: 
+🌐 Climate Data Enthusiast 
+👩‍💻 MSc Climate Science student @ the University of Bern and the Oeschger Center for Climate Change Research, Switzerland 
+:woman_student: BSc Environmental Earth Sciences graduate @ University of St Andrews, Scotland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Research (MSc thesis) 🔎: 
+💡 Investigating global drought dynamics in the past millennium using large ensemble climate simulation data
+
+My Research Interests 🔬:
+🌪 Projections and predictability of extreme climate and weather events
+🌦 Climate variability and dynamics
+🌡Climate change impacts 
+
+📨 Reach me: p.helpap@t-online.de 
+
